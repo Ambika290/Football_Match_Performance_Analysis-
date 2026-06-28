@@ -79,19 +79,14 @@ The Power BI report is connected to the generated CSV dataset. Whenever the Pyth
 
 
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
-Add your Power BI dashboard screenshot here.
+<img width="1384" height="745" alt="WhatsApp Image 2026-06-28 at 9 48 18 PM" src="https://github.com/user-attachments/assets/2162685a-c8ad-4229-a1dd-e562f08bfe62" />
 
-Example:
-
-```markdown
-![Dashboard Screenshot](Dashboard_Screenshot.png)
-```
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Use real-world football match datasets.
 - Add team-wise and season-wise analysis.
 - Include advanced player statistics.
